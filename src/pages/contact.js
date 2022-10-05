@@ -20,7 +20,7 @@ function ContactPage() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Read the docs
+              Read the doc
             </a>
             .
           </h2>
